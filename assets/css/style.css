@@ -1,0 +1,40 @@
+body,html{
+    height: 100%;
+    max-height: 100%;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/movie.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    }
+
+
+
+
+h1{
+    color: gold;
+    text-align: center;
+    font-family: 'Niconne', cursive;
+    font-size:90px;
+    margin-bottom: 0px;
+
+}
+h3{
+    font-size: 18px;
+}
+#start{
+  margin-bottom:50px;
+}
+#questions-container{
+    overflow-y: auto;
+    height:250px;
+    
+}
+div{
+    text-align: center;
+}
+#timer{
+    text-align: center;
+
+}
